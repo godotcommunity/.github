@@ -24,7 +24,7 @@ At Godot Community, we are a passionate group of Godot enthusiasts, contributors
 
 We value community engagement, and we encourage you to connect with us through any of the following channels:
 
-- **Forum:** [godot.community](https://godot.community)
+- **App:** [Godot Community](https://play.google.com/store/apps/details?id=community.godot.twa)
 
 - **GitHub:** [github.com/godotcommunity](https://github.com/godotcommunity)
 
