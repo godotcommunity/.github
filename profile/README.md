@@ -24,10 +24,11 @@ At Godot Community, we are a passionate group of Godot enthusiasts, contributors
 
 We value community engagement, and we encourage you to connect with us through any of the following channels:
 
-- **App:** [Google Play](https://play.google.com/store/apps/details?id=community.godot.twa), [Itch.io](https://godotcommunity.itch.io/app)
+- **App:** [Google Play](https://play.google.com/store/apps/details?id=community.godot.twa) - [Itch.io](https://godotcommunity.itch.io/app)
 - **GitHub:** [github.com/godotcommunity](https://github.com/godotcommunity)
 - **DEV:** [dev.to/godot](https://dev.to/godot)
 - **Mastodon:** [godot.community 🚀](https://mastodon.gamedev.place/@0)
+- **Medium:** [@godotcommunity](https://medium.com/@godotcommunity)
 - **Twitter:** [@godotcommunity](https://twitter.com/godotcommunity)
 - **Discord:** [Godot Community Discord](https://discord.gg/UpbwRdtcv2)
 
