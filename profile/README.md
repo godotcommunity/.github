@@ -29,7 +29,7 @@ We value community engagement, and we encourage you to connect with us through a
 - **DEV:** [dev.to/godot](https://dev.to/godot)
 - **Mastodon:** [godot.community 🚀](https://mastodon.gamedev.place/@0)
 - **Medium:** [@godotcommunity](https://medium.com/@godotcommunity)
-- **Twitter:** [@godotcommunity](https://twitter.com/godotcommunity)
+- **Twitter:** [@gdscript](https://twitter.com/gdscript)
 - **Discord:** [Godot Community Discord](https://discord.gg/UpbwRdtcv2)
 
 We're excited to have you as part of the Godot Community, and together, let's create an amazing game development experience with Godot Engine!
